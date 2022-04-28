@@ -1,22 +1,36 @@
-Welcome to Lumache's documentation!
+Welcome to the LevelImposter Docs
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**LevelImposter** (or LI) is the world's only editor, engine, and sharing platform for Among Us custom maps.
+We provide systems in order to create, share, and use custom maps within the Among Us ecosystem.
+Our overall goal is to promote the use of custom maps throughout the community.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Check out the :doc:`about/getting-started` in order to install LevelImposter.
 
 .. note::
 
    This project is under active development.
 
-Contents
---------
+.. toctree::
+   :maxdepth: 1
+   :caption: LevelImposter
+   :hidden:
+
+   about/about
+   about/getting-started
 
 .. toctree::
+   :maxdepth: 1
+   :caption: Map Development
+   :hidden:
 
-   usage
-   api
+   mapdev/mapdev-start
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Mod Development
+   :hidden:
+
+   moddev/li-api
+   moddev/li-mapformat
+   moddev/li-mod
