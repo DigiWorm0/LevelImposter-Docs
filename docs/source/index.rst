@@ -25,12 +25,14 @@ Check out the :doc:`about/getting-started` in order to install LevelImposter.
    :hidden:
 
    mapdev/mapdev-start
+   mapdev/edit-properties
+   mapdev/colliders
+   mapdev/room-utility
 
 .. toctree::
    :maxdepth: 1
    :caption: Mod Development
    :hidden:
 
-   moddev/li-api
    moddev/li-mapformat
    moddev/li-mod
