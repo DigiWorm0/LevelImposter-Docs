@@ -27,13 +27,13 @@ Selecting the collider from the list will edit the collider.
     Depending on the object, some colliders may not interact with the player.
     For more information on collision, you may view :doc:`colliders`.
 
-Task
+Task / Sabotage
 --------------------------
-Task objects have a task property that can be used to view/edit some task properties of the object.
-Selecting a ``Room Utility`` from the dropdown will link the task to the ``Room Utility``.
-In addition, you may change the task's description that is displayed in-game.
+Task and sabotage objects have a panel that can be used to view/edit some task/sabotage properties of the object.
+Selecting a ``Room Utility`` from the dropdown will link the object to the ``Room Utility``.
+In addition, you may change the task or sabotage's description that is displayed in-game.
 
-For more information on ``Room Utilities``, you may view :doc:`room-utility`.
+For more information on ``Room Utilities``, you may view :doc:`custom-objs`.
 
 Console
 --------------------------

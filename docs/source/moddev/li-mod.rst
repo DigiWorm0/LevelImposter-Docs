@@ -1,4 +1,4 @@
-Mod Framework
+LevelImposter-Mod
 ===================
 
 At the core of LevelImposter is the BepInEx Among Us mod that...
@@ -7,7 +7,7 @@ At the core of LevelImposter is the BepInEx Among Us mod that...
 2. Deserializes and builds each map element
 3. Syncronizes map data among all lobby members
 
-Information on downloading and installing the mod is available at :doc:`getting-started`.
+Information on downloading and installing the mod is available at :doc:`/mapdev/getting-started`.
 
 .. note::
 
