@@ -27,3 +27,7 @@ Trigger Objects
 Some objects such as rooms ``util-room`` and sounds ``util-sound*`` do not actually collide with the player itself.
 Instead, they are used to detect the precense or absence of the player.
 As a result, the solid and light blocking properties are not used for these objects.
+
+Best Practices
+--------------
+For the best results, it is recommended that you follow :doc:`/mapdev/best-practices` when creating your colliders.

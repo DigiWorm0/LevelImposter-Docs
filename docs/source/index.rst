@@ -29,6 +29,7 @@ Check out the :doc:`about/getting-started` in order to install LevelImposter.
    mapdev/colliders
    mapdev/au-objs
    mapdev/custom-objs
+   mapdev/best-practices
 
 .. toctree::
    :maxdepth: 1

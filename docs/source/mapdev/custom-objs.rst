@@ -1,4 +1,4 @@
-Other Objects
+LevelImposter Objects
 =================
 
 In order to employ common features within Among Us, LevelImposter employs a variety of custom objects for you to use.
