@@ -124,3 +124,23 @@ Dummy
 Dummies ``util-dummy`` are used as placeholder players in freeplay mode.
 The game must contain at least 2 dummies in order to play as impostor in freeplay without automatically winning.
 Dummies are automatically named and colored ``Player *``, regardless of what is set in the inspector.
+
+Door
+----
+
+.. image:: https://editor.levelimposter.net/sprites/sab-doorv.png
+    :alt: Vertical Door
+    :align: left
+
+.. image:: https://editor.levelimposter.net/sprites/sab-doorh.png
+    :alt: Horizontal Door
+    :align: left
+
+
+Doors ``util-door`` are used as sabotages for the impostor to close off areas of the map.
+Doors require a Door Button ``sab-doorbtn`` that will render in the impostor's minimap and trigger all doors attatched to a Room ``util-room``.
+
+By default, the door will play the same sprites and animation as Skeld.
+Adding a **still image** will show and hide the door when it is closed or open.
+**GIFs** will animate the door as it closes then reverse the animation as the door is opened.
+Any **collider** attatched to the door will also toggle on and off depending on the door's state.
